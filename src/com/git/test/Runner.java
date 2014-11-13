@@ -1,0 +1,10 @@
+package com.git.test;
+
+/**
+ * @author akorzhov Date: 13.11.14.
+ */
+public class Runner {
+    public static void main(String args[]) {
+        System.out.println("Hello git");
+    }
+}
